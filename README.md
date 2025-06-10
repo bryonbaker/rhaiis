@@ -1,2 +1,2 @@
-# Red Hat AI Infer4ence Server Examples
+# Red Hat AI Inference Server Examples
 
